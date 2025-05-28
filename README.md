@@ -1,6 +1,6 @@
 # Insurance-benefits-Chat-bot
 
-This project implements a local Retrieval Augmented Generation (RAG) system in Python. It allows you to ask natural language questions about Insurance beenfits and receive contextually relevant answers.
+This project implements a local Retrieval Augmented Generation (RAG) system in Python. It allows you to ask natural language questions about Insurance benefits and receive contextually relevant answers.
 
 **Core Technologies:**
 *   LangChain for orchestration
